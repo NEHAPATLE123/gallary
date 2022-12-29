@@ -1,0 +1,23 @@
+.all > div {
+    height :300px;
+    border: 1px solid blue;
+    margin-bottom: 10px;
+}
+.orange > div{
+    background-color: orange;
+}
+.yellowgreen > div {
+    background-color: yellowgreen;
+}
+.red > div {
+    background-color: red;
+}
+.blue > div {
+    background-color: blue;
+}
+.pink > div {
+    background-color: pink;
+}
+.violet > div {
+    background-color: violet;
+}
